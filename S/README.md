@@ -13,6 +13,8 @@ This is the archive directory for my graphic design projects, starting with the 
 
 [SBOT Flash Edition](/S/SBOT_Flash_Edition/) - Made with: Scratch 2
 
+[Seanpm2001-Religion icon](/S/Seanpm2001-Religion_Logo/) - Made with: GIMP 2.10
+
 [SNU](/S/SNU/)
 
 > [Banner](/S/SNU/Banner/) - Made with: GIMP 2.10
@@ -29,9 +31,9 @@ This is the archive directory for my graphic design projects, starting with the 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Wednesday, May 11th at 1:55 pm PST)`
+**File version:** `2 (2022, Wednesday, May 11th at 3:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `39`
+**Line count (including blank lines and compiler line):** `41`
 
 **Article language:** `English (US)`
 
