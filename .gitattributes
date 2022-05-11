@@ -95,8 +95,7 @@
 *.makefile linguist-detectable=false
 *.makefile linguist-documentation=false
 # SVG (Scalable Vector Graphics) image file
-# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
-*.svg linguist-detectable=false
+*.svg linguist-detectable=true
 *.svg linguist-documentation=false
 # Git Configuration files
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
@@ -113,6 +112,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 3 (Monday, 2021 November 29th at 3:14 pm)
-# Line count (including blank lines and compiler line): 119
+# File version: 4 (Wednesday, 2022 May 11th at 1:07 am PST)
+# Line count (including blank lines and compiler line): 118
 # End of script
