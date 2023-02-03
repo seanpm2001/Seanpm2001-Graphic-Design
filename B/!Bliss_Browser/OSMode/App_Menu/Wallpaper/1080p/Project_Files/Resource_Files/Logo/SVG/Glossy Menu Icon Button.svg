@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Glossy Menu Icon Button</title>
+ <g>
+  <title>Layer 1</title>
+  <defs>
+   <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+    <image height="100" width="100" y="0" x="0" id="svg_2"/>
+   </pattern>
+   <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_37">
+    <image height="100" width="100" y="0" x="0" id="svg_38"/>
+   </pattern>
+   <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_68">
+    <image height="100" width="100" y="0" x="0" id="svg_69"/>
+   </pattern>
+   <linearGradient id="svg_61">
+    <stop id="svg_64" offset="0" stop-color="#ffffff"/>
+    <stop id="svg_63" offset="1" stop-opacity="0" stop-color="#ffffff"/>
+   </linearGradient>
+   <linearGradient xlink:href="#svg_61" id="svg_60" x1="0.500015" y1="-0.000042" x2="0.500015" y2="0.892047"/>
+   <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_58">
+    <image height="100" width="100" y="0" x="0" id="svg_59"/>
+   </pattern>
+  </defs>
+  <g id="svg_11">
+   <rect id="svg_6" height="195.042328" width="225.400389" y="193.957686" x="223.679998" stroke-width="0" stroke="#999999" fill="#ffffff"/>
+   <path id="svg_8" d="m178.59605,215.07445c0,0 156.2744,-108.02606 156.35012,-109.79779c0.07486,-1.77182 151.03286,106.49644 151.03286,106.49644c0,0 -307.38298,3.30135 -307.38298,3.30135l0,0z" stroke-width="0" stroke="#999999" fill="#ffffff"/>
+  </g>
+  <ellipse ry="252" rx="252" id="svg_1" cy="240" cx="330" stroke-width="5" stroke="#ff56aa" fill="#ffffff"/>
+  <ellipse id="svg_3" ry="230.000005" rx="230.000005" cy="240.999995" cx="328.999999" stroke-width="0" stroke="#999999" fill="#ff007f"/>
+  <g id="svg_80">
+   <metadata transform="translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(0,-1) translate(-1,2) translate(-2,13) " id="svg_79">image/svg+xmlblue power button08 12 2006molumenblue power buttoniconbuttondesignUIinterfacepowerswitchonoffblueglossytoggle</metadata>
+   <path d="m526.64014,192.22704a198.77449,157.93059 0 1 1 -397.54908,0a198.77449,157.93059 0 1 1 397.54908,0z" id="svg_71" stroke-miterlimit="4" fill-rule="evenodd" fill="url(#svg_60)" opacity="0.75"/>
+  </g>
+  <rect stroke="#000000" id="svg_4" height="81.999998" width="83.999999" y="157.25" x="188.4375" stroke-width="5" fill="#ffffff"/>
+  <rect id="svg_7" stroke="#000000" height="81.999998" width="83.999999" y="265.3125" x="296.5" stroke-width="5" fill="#ffffff"/>
+  <rect id="svg_9" stroke="#000000" height="81.999998" width="83.999999" y="266.3125" x="188.5" stroke-width="5" fill="#ffffff"/>
+  <rect id="svg_10" stroke="#000000" height="81.999998" width="83.999999" y="156.375" x="296.0625" stroke-width="5" fill="#ffffff"/>
+  <rect id="svg_12" stroke="#000000" height="81.999998" width="83.999999" y="264.4375" x="400.8125" stroke-width="5" fill="#ffffff"/>
+  <rect id="svg_13" stroke="#000000" height="81.999998" width="83.999999" y="156.8125" x="400.4375" stroke-width="5" fill="#ffffff"/>
+ </g>
+</svg>
