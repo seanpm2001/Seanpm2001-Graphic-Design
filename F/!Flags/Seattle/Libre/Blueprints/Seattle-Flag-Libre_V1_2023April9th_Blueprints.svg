@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Seattle-Flag-Libre_V1_2023April9th_VB.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.49638341"
+     inkscape:cx="680.92525"
+     inkscape:cy="507.67208"
+     inkscape:window-width="1920"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0000ff"
+       id="rect311"
+       width="2127.3877"
+       height="1156.136"
+       x="-99.957382"
+       y="-40.75573" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.995497"
+       id="path365"
+       cx="957.21667"
+       cy="545.10693"
+       rx="953.51025"
+       ry="496.09616" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:144.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.6099"
+       x="696.99658"
+       y="975.82593"
+       id="text529"
+       transform="scale(0.97937485,1.0210595)"><tspan
+         sodipodi:role="line"
+         id="tspan527"
+         x="696.99658"
+         y="975.82593"
+         style="stroke-width:3.6099">SEATTLE</tspan></text>
+    <ellipse
+       style="fill:#00ffff"
+       id="path189"
+       cx="981.23419"
+       cy="394.93869"
+       rx="318.50302"
+       ry="134.79138" />
+    <ellipse
+       style="fill:#00ffff"
+       id="path243"
+       cx="991.90118"
+       cy="623.91919"
+       rx="101.72014"
+       ry="234.49301" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="799.23413"
+       y="393.896"
+       id="text299"><tspan
+         sodipodi:role="line"
+         id="tspan297"
+         x="799.23413"
+         y="393.896">Space needle</tspan><tspan
+         sodipodi:role="line"
+         x="799.23413"
+         y="443.896"
+         id="tspan301">(needs better graphic)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="38.930023"
+       y="102.27886"
+       id="text485"><tspan
+         sodipodi:role="line"
+         x="38.930023"
+         y="102.27886"
+         id="tspan487">[Music</tspan><tspan
+         sodipodi:role="line"
+         x="38.930023"
+         y="152.27887"
+         id="tspan658">Symbol]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="1288.6019"
+       y="669.34149"
+       id="text491"><tspan
+         sodipodi:role="line"
+         id="tspan489"
+         x="1288.6019"
+         y="669.34149">[CITY GRAPHICS]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="382.78436"
+       y="690.91156"
+       id="text495"><tspan
+         sodipodi:role="line"
+         id="tspan493"
+         x="382.78436"
+         y="690.91156">[CITY GRAPHICS]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="1672.0789"
+       y="95.881027"
+       id="text662"><tspan
+         sodipodi:role="line"
+         id="tspan660"
+         x="1672.0789"
+         y="95.881027">[Washington</tspan><tspan
+         sodipodi:role="line"
+         x="1672.0789"
+         y="145.88103"
+         id="tspan664">Symbol]</tspan></text>
+  </g>
+</svg>

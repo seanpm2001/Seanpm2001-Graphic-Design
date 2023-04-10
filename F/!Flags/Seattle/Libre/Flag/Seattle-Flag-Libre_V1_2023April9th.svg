@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Seattle-Flag-Libre_V1_2023April9th.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.49638341"
+     inkscape:cx="680.92526"
+     inkscape:cy="372.69578"
+     inkscape:window-width="1920"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0000ff"
+       id="rect311"
+       width="2127.3877"
+       height="1156.136"
+       x="-99.957382"
+       y="-40.75573" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.995497"
+       id="path365"
+       cx="957.21667"
+       cy="545.10693"
+       rx="953.51025"
+       ry="496.09616" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:144.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.6099"
+       x="696.99658"
+       y="975.82593"
+       id="text529"
+       transform="scale(0.97937485,1.0210595)"><tspan
+         sodipodi:role="line"
+         id="tspan527"
+         x="696.99658"
+         y="975.82593"
+         style="stroke-width:3.6099">SEATTLE</tspan></text>
+  </g>
+</svg>
