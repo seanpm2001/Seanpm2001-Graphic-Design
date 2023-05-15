@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2943"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   width="18.000036"
+   height="13.999934"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\GQG\Mes documents\Mes images\CINEMA"
+   sodipodi:docname="18x14 Video Clic Player.svg"
+   inkscape:export-filename="C:\Documents and Settings\GQG\Mes documents\Mes images\CINEMA\18x14 Video Clic Player.PNG"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata2948">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2946">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4728">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop4730" />
+      <stop
+         style="stop-color:black;stop-opacity:0;"
+         offset="1"
+         id="stop4732" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4728"
+       id="linearGradient3662"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.179749,0,0,1.20071,-0.470856,-0.427194)"
+       x1="7.8638501"
+       y1="16.591944"
+       x2="8.0389223"
+       y2="2.9043765" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="708"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="36.583059"
+     inkscape:cx="9.0021839"
+     inkscape:cy="6.9977746"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2943" />
+  <g
+     id="g3657"
+     transform="matrix(0.998298,0,0,1.03738,2.303417e-3,-2.347854e-3)">
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       id="path2952"
+       d="M 0.15657014,2.5268098 C 0.35089445,1.2830984 0.96872994,0.3472698 2.5598802,0.11901823 L 15.552776,0.11901823 C 16.837401,0.27143982 17.819849,0.88928421 17.907091,2.5650287 L 17.880982,10.934971 C 17.631059,12.367379 16.726726,13.067146 15.477671,13.380982 L 2.4847767,13.380982 C 0.76079307,13.279658 0.25130221,12.251279 0.11901843,10.934971 L 0.15657014,2.5268098 z "
+       style="fill:#d40000;fill-rule:evenodd;stroke:black;stroke-width:0.23803687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       id="path3841"
+       d="M 0.15656987,2.5268097 C 0.35089355,1.2830984 0.96872981,0.34726979 2.55988,0.11901823 L 15.552776,0.11901823 C 16.837401,0.27143981 17.819849,0.88928417 17.907091,2.5650287 L 17.880982,10.934971 C 17.63106,12.367379 16.726726,13.067146 15.477671,13.380982 L 2.4847765,13.380982 C 0.76079294,13.279658 0.25130142,12.251279 0.11901843,10.934971 L 0.15656987,2.5268097 z "
+       style="fill:url(#linearGradient3662);fill-opacity:1;fill-rule:evenodd;stroke:#010000;stroke-width:0.23803684;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path2954"
+       d="M 7.227934,3.0537274 L 7.192125,9.89325 L 12.277006,6.4555841 L 7.227934,3.0537274 z "
+       style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:1.125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
