@@ -1,0 +1,1 @@
+Indexes (graphic design folder and file lists) for all lettered and numbered directories are out of date, and need to be updated with the proper listing of sub-directories. There also needs to be a way to do this easily and quickly, and possibly automate this task.
