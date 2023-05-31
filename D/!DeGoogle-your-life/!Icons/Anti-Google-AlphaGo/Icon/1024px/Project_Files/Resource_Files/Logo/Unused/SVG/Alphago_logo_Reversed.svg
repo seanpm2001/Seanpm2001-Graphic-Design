@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="215" width="820" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 820.00001 215" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <linearGradient id="linearGradient4304" y2="946.35" gradientUnits="userSpaceOnUse" x2="147.86" y1="946.35" x1="51.699">
+   <stop id="stop4300" stop-color="#2394d2" offset="0"/>
+   <stop id="stop4302" stop-color="#0677bc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4312" y2="946.17" gradientUnits="userSpaceOnUse" x2="166.86" y1="946.17" x1="70.699">
+   <stop id="stop4308" stop-color="#6cb1e1" offset="0"/>
+   <stop id="stop4310" stop-color="#acd6f3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer2" transform="translate(0 -837.36)">
+  <text id="text4149" style="word-spacing:0px;letter-spacing:-10px" font-weight="300" xml:space="preserve" font-size="150px" line-height="89.99999762%" y="999.50507" x="254.35152" font-family="Open Sans" fill="#000000"><tspan id="tspan4151" x="254.35152" y="999.50507">AlphaGo</tspan></text>
+  <g stroke-linejoin="round" stroke="#000" stroke-linecap="round" stroke-width="2">
+   <circle id="path4161" cx="108.94" cy="1034.1" r="16.5" fill="none"/>
+   <circle id="circle4163" cy="858.25" cx="108.86" r="16.5" fill="none"/>
+   <circle id="circle4169" fill-rule="evenodd" cx="-378.85" transform="rotate(-30)" cy="785.91" r="16.5"/>
+   <circle id="circle4173" transform="rotate(-60.001)" cy="479.4" cx="-765.05" r="16.5" fill="none"/>
+   <circle id="circle4177" fill-rule="evenodd" cx="-946.25" transform="rotate(-90)" cy="20.86" r="16.5"/>
+   <circle id="circle4185" fill-rule="evenodd" transform="matrix(.86603 .5 .5 -.86603 0 0)" cy="-853.05" cx="567.4" r="16.5"/>
+   <circle id="circle4189" cx="873.91" transform="matrix(.5 .86603 .86603 -.5 0 0)" cy="-466.85" r="16.5" fill="none"/>
+   <circle id="circle4193" fill-rule="evenodd" transform="matrix(-.86603 -.5 -.5 .86603 0 0)" cy="677.05" cx="-567.4" r="16.5"/>
+   <circle id="circle4197" cx="-873.91" transform="matrix(-.5 -.86603 -.86603 .5 0 0)" cy="290.85" r="16.5" fill="none"/>
+   <circle id="circle4199" fill-rule="evenodd" transform="matrix(0,-1,-1,0,0,0)" cy="-196.86" cx="-946.25" r="16.5"/>
+   <circle id="circle4201" fill-rule="evenodd" cx="378.85" transform="rotate(150)" cy="-961.91" r="16.5"/>
+   <circle id="circle4203" transform="rotate(120)" cy="-655.4" cx="765.05" r="16.5" fill="none"/>
+  </g>
+  <path id="circle4255" d="m108.86 889.25v0.061a38 38 0 0 0 -37.16 37.959 38 38 0 0 0 35.035 37.85 19 19 0 0 1 -16.875 -18.869 19 19 0 0 1 19 -19 38 38 0 0 1 38 38 38 38 0 0 1 -34.762 37.838 57 57 0 0 0 53.762 -56.838 57 57 0 0 0 -52.607 -56.779 38 38 0 0 0 -3.5527 -0.2012 38 38 0 0 0 -0.22461 0.012 57 57 0 0 0 -0.61523 -0.031z" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="2" fill="url(#linearGradient4312)"/>
+  <path id="path4282" d="m109.7 1003.3v-0.061a38 38 0 0 0 37.16 -37.959 38 38 0 0 0 -35.035 -37.85 19 19 0 0 1 16.875 18.869 19 19 0 0 1 -19 19 38 38 0 0 1 -38 -38 38 38 0 0 1 34.762 -37.838 57 57 0 0 0 -53.762 56.838 57 57 0 0 0 52.607 56.779 38 38 0 0 0 3.5528 0.2012 38 38 0 0 0 0.2246 -0.012 57 57 0 0 0 0.6152 0.031z" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="2" fill="url(#linearGradient4304)"/>
+ </g>
+</svg>
