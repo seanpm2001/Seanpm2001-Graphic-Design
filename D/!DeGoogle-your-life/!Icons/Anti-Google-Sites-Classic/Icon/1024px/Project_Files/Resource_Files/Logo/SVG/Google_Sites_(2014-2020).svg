@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="240" preserveAspectRatio="none" version="1.1" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="scale(10)">
+  <rect width="24" height="24" fill="none"/>
+  <defs>
+   <path id="j" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="h">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#j"/>
+  </clipPath>
+  <path d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5l-3.5-2.5z" clip-path="url(#h)" fill="#3f51b5"/>
+  <defs>
+   <path id="g" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="f">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#g"/>
+  </clipPath>
+  <linearGradient id="e" x1="4526.8" x2="4526.8" y1="-6869.3" y2="-6910" gradientTransform="matrix(.125 0 0 -.125 -548.62 -851.62)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1A237E" stop-opacity=".2" offset="0"/>
+   <stop stop-color="#1A237E" stop-opacity=".02" offset="1"/>
+  </linearGradient>
+  <polygon points="20 7 14.4 6.6 20 12.1" clip-path="url(#f)" fill="url(#e)"/>
+  <defs>
+   <path id="d" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="c">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#d"/>
+  </clipPath>
+  <g clip-path="url(#c)">
+   <path d="m14 1v4.5c0 0.8 0.7 1.5 1.5 1.5h4.5z" fill="#9fa8da"/>
+  </g>
+  <defs>
+   <path id="b" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="a">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#b"/>
+  </clipPath>
+  <path d="m5.5 1c-0.8 0-1.5 0.7-1.5 1.5v0.1c0-0.8 0.7-1.5 1.5-1.5h8.5v-0.1z" clip-path="url(#a)" fill="#fff" fill-opacity=".2"/>
+  <defs>
+   <path id="t" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="s">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#t"/>
+  </clipPath>
+  <path d="m18.5 22.9h-13c-0.8 0-1.5-0.7-1.5-1.5v0.1c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-0.1c0 0.8-0.7 1.5-1.5 1.5z" clip-path="url(#s)" fill="#1a237e" fill-opacity=".2"/>
+  <defs>
+   <path id="r" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="q">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#r"/>
+  </clipPath>
+  <path d="m15.5 7c-0.8 0-1.5-0.7-1.5-1.5v0.1c0 0.8 0.7 1.5 1.5 1.5h4.5v-0.1z" clip-path="url(#q)" fill="#1a237e" fill-opacity=".1"/>
+  <defs>
+   <path id="p" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="o">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#p"/>
+  </clipPath>
+  <polyline points="12.5 15.5 8 15.5 8 19 12.5 19 12.5 15.5" clip-path="url(#o)" fill="#f1f1f1"/>
+  <defs>
+   <path id="n" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="m">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#n"/>
+  </clipPath>
+  <polyline points="16 15.5 13.5 15.5 13.5 19 16 19 16 15.5" clip-path="url(#m)" fill="#f1f1f1"/>
+  <defs>
+   <path id="l" d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z"/>
+  </defs>
+  <clipPath id="k">
+   <use width="100%" height="100%" overflow="visible" xlink:href="#l"/>
+  </clipPath>
+  <polyline points="16 12 8 12 8 14.5 16 14.5 16 12" clip-path="url(#k)" fill="#f1f1f1"/>
+  <radialGradient id="i" cx="4425.1" cy="-6825.8" r="206.4" gradientTransform="matrix(.125 0 0 -.125 -548.62 -851.62)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".1" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <path d="m14 1h-8.5c-0.8 0-1.5 0.7-1.5 1.5v19c0 0.8 0.7 1.5 1.5 1.5h13c0.8 0 1.5-0.7 1.5-1.5v-14.5z" fill="url(#i)"/>
+ </g>
+</svg>
