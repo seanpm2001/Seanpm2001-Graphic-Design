@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--*-indent-tabs-mode:t;tab-width:4;-*- vim:se noet ts=4:-->
+<svg version="1.1" viewBox="0 0 1098 329" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="default">
+<title lang="en">UNESCO language endangerment classification: critically endangered</title>
+<style type="text/css">
+	circle{
+		fill: currentColor;
+		stroke: #c0c0c0;
+		stroke-width: 3;
+	}
+	line, path{
+		fill: none;
+		stroke: currentColor;
+		stroke-width: 3;
+		stroke-linecap: round;
+	}
+	text, .t{
+		fill: currentColor;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 53px;
+		text-anchor: middle;
+	}
+
+	#bracket{
+		stroke-width: 10;
+		stroke-linejoin: round;
+		stroke-linecap: butt;
+	}
+
+	/* Status label */
+	.name{
+		color: #000;
+		font-weight: bold;
+		font-size: 73px;
+	}
+	.invert   { color: #fff; }
+	.inactive { color: rgba(0,0,0,0) !important; }
+
+	/* Status colours */
+	#cr { color: #ff4050; }
+	#de { color: #f2f261; }
+	#ex { color: #000; }
+	#ne { color: #e5e5e5; }
+	#se { color: #e80; }
+	#vu { color: #97c135; }
+</style>
+<path id="bracket" d="  M 883.7 172.7  c -3 -16.5 -22.6 -28.7 -60.1 -28.7  l -213.7 0  c -30.5 0 -56.9 -10.9 -56.9 -29  c 0 18.1 -26.5 29 -56.9 29  H 282.4  c -37.4 0 -57 12.1 -60.1 28.7 "/>
+<line x1="973" y1="116" x2="973" y2="173"/>
+<line x1="123" y1="115" x2="123" y2="172"/>
+<switch transform="translate(122 81)">
+	<text class="t" systemLanguage="cs">Vymřelý</text>
+<text class="t" systemLanguage="de" x="50">Ausgestorben</text>
+<text class="t" systemLanguage="el">Εκλιπόντα</text>
+<text class="t" systemLanguage="es">Extinta</text>
+<text class="t" systemLanguage="fr">Éteint</text>
+<text class="t" systemLanguage="it">Estinto</text>
+<text class="t" systemLanguage="mk">Изумрен</text>
+<text class="t" systemLanguage="nl" x="60">Uitgestorven</text>
+<text class="t" systemLanguage="fy" x="5">Útstoarn</text>
+<text class="t" systemLanguage="pl">Wymarły</text>
+<text class="t" systemLanguage="prg" x="5">Iznīkusi</text>
+<text class="t" systemLanguage="id,ms">Punah</text>
+<text class="t" systemLanguage="br">Aet da get</text>
+<text class="t" systemLanguage="uk">Вимерлі</text>
+<text class="t" systemLanguage="pt">Extinta</text>
+<text class="t">Extinct</text>
+</switch>
+<switch transform="translate(551 76)">
+	<text class="t" systemLanguage="cs">Ohrožený</text>
+<text class="t" systemLanguage="de">Gefährdet</text>
+<text class="t" systemLanguage="el">Κινδυνεύοντα</text>
+<text class="t" systemLanguage="es">En peligro</text>
+<text class="t" systemLanguage="fr">En danger</text>
+<text class="t" systemLanguage="it">In pericolo</text>
+<text class="t" systemLanguage="mk">Загрозен</text>
+<text class="t" systemLanguage="nl">Bedreigde</text>
+<text class="t" systemLanguage="fy">Endangered</text>
+<text class="t" systemLanguage="pl">Zagrożony</text>
+<text class="t" systemLanguage="prg">Entrintinis</text>
+<text class="t" systemLanguage="id,ms">Terancam</text>
+<text class="t" systemLanguage="br">En arvar</text>
+<text class="t" systemLanguage="uk">Загрожені</text>
+<text class="t" systemLanguage="pt">Em perigo</text>
+<text class="t">Endangered</text>
+</switch>
+<switch transform="translate(975 79)">
+	<text class="t" systemLanguage="cs">V bezpečí</text>
+<text class="t" systemLanguage="de" x="-30">Ungefährdet</text>
+<text class="t" systemLanguage="el">Ασφαλής</text>
+<text class="t" systemLanguage="es">Seguro</text>
+<text class="t" systemLanguage="fr">Sauf</text>
+<text class="t" systemLanguage="it">Sicuro</text>
+<text class="t" systemLanguage="mk">Безбеден</text>
+<text class="t" systemLanguage="nl">Veilig</text>
+<text class="t" systemLanguage="fy">Feilich</text>
+<text class="t" systemLanguage="pl" x="-40">Niezagrożony</text>
+<text class="t" systemLanguage="prg" x="-25">Niwārgingis</text>
+<text class="t" systemLanguage="id,ms">Aman</text>
+<text class="t" systemLanguage="br">Sur</text>
+<text class="t" systemLanguage="uk">Безпечні</text>
+<text class="t" systemLanguage="pt">Segura</text>
+<text class="t">Safe</text>
+</switch>
+<g id="ex" class="inactive">
+	<title lang="en">Extinct</title>
+	<circle cx="127" cy="260" r="66"/>
+	<text class="name" transform="scale(0.8 1) translate(158 285)">EX</text>
+</g>
+<g id="cr">
+	<title lang="en">Critically endangered</title>
+	<circle cx="296" cy="260" r="66"/>
+	<text class="name" transform="scale(0.8 1) translate(370 286)">CR</text>
+</g>
+<g id="se" class="inactive">
+	<title lang="en">Severely endangered</title>
+	<circle cx="465" cy="260" r="66"/>
+	<text class="name" transform="scale(0.8 1) translate(580 285)">SE</text>
+</g>
+<g id="de" class="inactive">
+	<title lang="en">Definitely endangered</title>
+	<circle cx="636" cy="260" r="66"/>
+	<text class="name" transform="scale(0.8 1) translate(795 286)">DE</text>
+</g>
+<g id="vu" class="inactive">
+	<title lang="en">Vulnerable</title>
+	<circle cx="811" cy="260" r="66"/>
+	<text class="name" transform="scale(0.8 1) translate(1015 286)">VU</text>
+</g>
+<g id="ne" class="inactive">
+	<title lang="en">Not endangered</title>
+	<circle cx="976" cy="260" r="66"/>
+	<text class="name" transform="scale(0.8 1) translate(1220 286)">NE</text>
+</g>
+</svg>
