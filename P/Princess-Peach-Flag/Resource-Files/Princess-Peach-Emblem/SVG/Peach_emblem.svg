@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65"
+   height="65"
+   id="svg3685"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 7">
+  <title
+     id="title4267">Peach Emblem</title>
+  <defs
+     id="defs3687">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective3693" />
+    <inkscape:perspective
+       id="perspective3722"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.203864"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="718"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3690">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Peach Emblem</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="bg"
+     transform="translate(0,1)">
+    <rect
+       style="fill:#eb5382;fill-opacity:1;stroke:none"
+       id="rect3755"
+       width="65.00042"
+       height="64.99958"
+       x="-1.1226357e-05"
+       y="-0.99942523" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="peach"
+     inkscape:groupmode="layer"
+     transform="translate(0,1)">
+    <path
+       style="fill:#feef03;fill-opacity:1;stroke:none;display:inline"
+       d="M 7.7270076,63.034856 1.9266087,13.956484 20.487885,30.965595 32.585857,-0.0405986 45.015283,30.256883 63.245111,13.602126 57.278984,63.212034 7.7270076,63.034856 z"
+       id="path2821" />
+    <path
+       style="fill:none;stroke:#c57c15;stroke-width:2.49701285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 7.6242199,45.738677 57.216047,46.135637 7.6242199,45.738677 z"
+       id="path3665" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#088ef7;fill-opacity:1;stroke:none;display:inline"
+       id="path3595"
+       sodipodi:cx="33.273884"
+       sodipodi:cy="32.815285"
+       sodipodi:rx="3.9235668"
+       sodipodi:ry="5.1974521"
+       d="m 37.197451,32.815285 a 3.9235668,5.1974521 0 1 1 -7.847134,0 3.9235668,5.1974521 0 1 1 7.847134,0 z"
+       transform="matrix(1.7134659,-0.26854522,0.25205775,1.8382277,-57.060836,-5.9807991)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f3282d;fill-opacity:1;stroke:none;display:inline"
+       id="path3619-7"
+       sodipodi:cx="48.152866"
+       sodipodi:cy="32.050957"
+       sodipodi:rx="4.0254779"
+       sodipodi:ry="5.4522295"
+       d="m 52.178344,32.050957 a 4.0254779,5.4522295 0 1 1 -8.050956,0 4.0254779,5.4522295 0 1 1 8.050956,0 z"
+       transform="matrix(1.6879372,0,0,1.7385617,-48.52672,-10.183546)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#088ef7;fill-opacity:1;stroke:none;display:inline"
+       id="path3595-1-4"
+       sodipodi:cx="33.273884"
+       sodipodi:cy="32.815285"
+       sodipodi:rx="3.9235668"
+       sodipodi:ry="5.1974521"
+       d="m 37.197451,32.815285 a 3.9235668,5.1974521 0 1 1 -7.847134,0 3.9235668,5.1974521 0 1 1 7.847134,0 z"
+       transform="matrix(-1.7134659,-0.26854522,-0.25205775,1.8382277,121.90862,-5.9812858)" />
+  </g>
+</svg>
