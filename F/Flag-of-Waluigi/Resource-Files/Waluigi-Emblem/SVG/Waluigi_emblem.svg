@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65"
+   height="65"
+   id="svg4216"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 10">
+  <title
+     id="title4240">Waluigi Emblem</title>
+  <defs
+     id="defs4218">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective4224" />
+    <inkscape:perspective
+       id="perspective4210"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="11.090909"
+     inkscape:cy="32"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="718"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4221">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Waluigi Emblem</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="bg">
+    <rect
+       style="fill:#3f0180;fill-opacity:1;stroke:#3f0180;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4238"
+       width="65"
+       height="65"
+       x="0"
+       y="1.812786e-16" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="wa-weegee"
+     inkscape:groupmode="layer"
+     transform="translate(0,1)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#3f0180;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3595"
+       sodipodi:cx="46.471336"
+       sodipodi:cy="24.152866"
+       sodipodi:rx="19.261147"
+       sodipodi:ry="20.687899"
+       d="m 65.732483,24.152866 a 19.261147,20.687899 0 1 1 -38.522293,0 19.261147,20.687899 0 1 1 38.522293,0 z"
+       transform="matrix(1.6613753,0,0,1.5467981,-44.706331,-5.8596039)" />
+    <path
+       style="fill:#fef102;fill-opacity:1;stroke:#3f0180;stroke-width:1.52798688px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.575426,10.711507 0,44.535659 13.703161,0 0,-32.078131 16.97323,0 0,-12.457528 -30.520673,0 -0.155718,0 z"
+       id="path3593" />
+  </g>
+</svg>
