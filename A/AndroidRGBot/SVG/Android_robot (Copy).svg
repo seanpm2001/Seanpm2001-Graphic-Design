@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-147 -70 294 345"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="Android_robot.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.4550725"
+     inkscape:cx="147.0425"
+     inkscape:cy="172.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1097"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     fill="#a4c639"
+     id="g3">
+    <use
+       stroke-width="14.4"
+       xlink:href="#b"
+       stroke="#FFF"
+       id="use1" />
+    <use
+       xlink:href="#a"
+       transform="scale(-1,1)"
+       id="use2" />
+    <g
+       id="a"
+       stroke="#FFF"
+       stroke-width="7.2">
+      <rect
+         rx="6.5"
+         transform="rotate(29)"
+         height="86"
+         width="13"
+         y="-86"
+         x="14"
+         id="rect2" />
+      <rect
+         id="c"
+         rx="24"
+         height="133"
+         width="48"
+         y="41"
+         x="-143" />
+      <use
+         y="97"
+         x="85"
+         xlink:href="#c"
+         id="use3" />
+    </g>
+    <g
+       id="b">
+      <ellipse
+         cy="41"
+         rx="91"
+         ry="84"
+         id="ellipse3" />
+      <rect
+         rx="22"
+         height="182"
+         width="182"
+         y="20"
+         x="-91"
+         id="rect3" />
+    </g>
+  </g>
+  <g
+     stroke="#FFF"
+     stroke-width="7.2"
+     fill="#FFF"
+     id="g4">
+    <path
+       d="m-95 44.5h190"
+       id="path3" />
+    <circle
+       cx="-42"
+       r="4"
+       id="circle3" />
+    <circle
+       cx="42"
+       r="4"
+       id="circle4" />
+  </g>
+  <path
+     style="fill:#ff0000;stroke-width:0"
+     d="M 22.380205,239.34722 C 15.086338,237.01309 9.4922716,230.82735 8.1805288,223.64568 7.8808556,222.00499 7.7410127,207.09204 7.7450997,177.2112 c 0.00661,-48.32792 -0.077825,-46.56937 2.4792043,-51.63482 2.742648,-5.43315 8.746979,-9.629 15.099461,-10.55155 3.737864,-0.54283 8.092493,0.17209 11.650076,1.91265 3.003495,1.46947 7.023268,5.32703 8.543607,8.19884 2.690156,5.08151 2.546306,2.11638 2.546306,52.4862 0,44.62626 -0.01934,45.7693 -0.818417,48.35639 -2.022648,6.54857 -7.498021,11.73252 -14.305952,13.54451 -2.974212,0.79162 -7.785778,0.71133 -10.55918,-0.1762 z"
+     id="path4"
+     transform="translate(-147,-70)" />
+  <path
+     style="fill:#0000ff;stroke-width:0"
+     d="m 260.72739,239.47052 c -7.68651,-2.06702 -13.65071,-8.98396 -14.72206,-17.07383 -0.28812,-2.17559 -0.38881,-17.81093 -0.30297,-47.04545 0.12072,-41.1172 0.17394,-43.92348 0.87277,-46.02715 3.19806,-9.62693 12.63038,-15.70954 22.16237,-14.29183 7.6354,1.13562 13.58319,6.08337 16.48516,13.71339 l 0.91713,2.41137 0.11693,44.39788 c 0.0772,29.31177 -0.0273,45.36671 -0.30767,47.24911 -1.17804,7.91063 -7.2289,14.69077 -14.89186,16.68672 -2.96228,0.77157 -7.41786,0.76285 -10.3298,-0.0202 z"
+     id="path8"
+     transform="translate(-147,-70)" />
+</svg>
