@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65"
+   height="65"
+   id="svg2818"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 2">
+  <title
+     id="title4153">Luigi Emblem</title>
+  <defs
+     id="defs2820">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective2826" />
+    <inkscape:perspective
+       id="perspective3621"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="36.191825"
+     inkscape:cy="32.000012"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="718"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2823">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Luigi Emblem</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="bg"
+     transform="translate(-1.0608353e-6,0.99999985)">
+    <rect
+       style="fill:#1a940d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3641"
+       width="65"
+       height="65"
+       x="1.0608353e-06"
+       y="-0.99999982" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="weegee"
+     inkscape:groupmode="layer"
+     transform="translate(-1.0608353e-6,0.99999985)"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="path3611"
+       sodipodi:cx="48.662422"
+       sodipodi:cy="25.477707"
+       sodipodi:rx="20.331211"
+       sodipodi:ry="19.872612"
+       d="m 68.993633,25.477707 a 20.331211,19.872612 0 1 1 -40.662422,0 20.331211,19.872612 0 1 1 40.662422,0 z"
+       transform="matrix(1.5739348,0,0,1.6102564,-44.091477,-9.5256394)" />
+    <path
+       style="fill:#1a940d;fill-opacity:1;stroke:none;display:inline"
+       d="m 16.918053,9.6852735 1.368169,40.8931065 29.035629,0.15202 -0.15202,-10.489312 -20.522562,1.216153 0.912112,-31.7719675 -10.641328,0 z"
+       id="path2829" />
+  </g>
+</svg>
